@@ -29,7 +29,7 @@ Hey there! I'm Nikoloz, a passionate Front-End developer who loves building slee
   <a href="https://www.linkedin.com/in/nikoloz-onezashvili-5172b1206/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nikoloz-onezashvili-5172b1206/" target="_blank">
+  <a href="https://www.instagram.com/nikaonezashvili78/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:nikaonezashvili837@gmail.com" target="_blank">
